@@ -4,6 +4,12 @@ An interactive Power BI report on ~98,000 orders from the Brazilian marketplace 
 
 ![Overview page](images/overview.png)
 
+## Data
+[Brazilian E-Commerce Public Dataset by Olist (Kaggle)](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce) and the [Marketing Funnel dataset](https://www.kaggle.com/datasets/olistbr/marketing-funnel-olist). Raw CSVs are not included; download them from Kaggle (non-commercial licence).
+
+## Setup
+Download the CSVs from Kaggle and point the queries to your folder to refresh.
+
 ## Guiding question
 > Where does Olist win customers, where does it lose them, and which marketing leads are actually worth investing in?
 
@@ -30,9 +36,6 @@ An interactive Power BI report on ~98,000 orders from the Brazilian marketplace 
 
 ## Tools
 Power BI · DAX · Power Query · Data modeling
-
-## Data
-[Brazilian E-Commerce Public Dataset by Olist (Kaggle)](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce) and the [Marketing Funnel dataset](https://www.kaggle.com/datasets/olistbr/marketing-funnel-olist). Raw CSVs are not included; download them from Kaggle (non-commercial licence).
 
 ## Author
 Alexander Vasilopoulos
