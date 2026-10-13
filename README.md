@@ -31,7 +31,7 @@ Download the CSVs from Kaggle and point the queries to your folder to refresh.
 
 ## Files
 - `report/` – the Power BI file (`.pbix`)
-- `presentation/` – project presentation (English and German)
+- `presentation/` – project presentation
 - `images/` – report screenshots
 
 ## Tools
